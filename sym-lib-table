@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name cc1101-module)(type Legacy)(uri /Users/pechj/Documents/kicad/library/cc1101-module.lib)(options "")(descr ""))
   (lib (name 328Pmini-rescue)(type Legacy)(uri ${KIPRJMOD}/328Pmini-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name 328RFStamp-rescue)(type Legacy)(uri ${KIPRJMOD}/328RFStamp-rescue.lib)(options "")(descr ""))
 )
