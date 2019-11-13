@@ -19,3 +19,7 @@ universelle Trägerplatine für ein CC1101 Funkmodul und einen ATmega328P in kle
 
 ![back](328RFStamp-Back.png)
 
+![p1](Images/IMG_0502.jpg)
+
+![p2](Images/IMG_0503.jpg)
+
