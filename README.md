@@ -1,5 +1,8 @@
 # 328RFStamp
 
+https://user-images.githubusercontent.com/18190139/147872786-335e677a-a8d6-4a60-accb-12a7c5812dc8.mp4
+
+
 universelle Trägerplatine für ein CC1101 Funkmodul und einen ATmega328P in kleinstmöglicher Abmessung.<br/>
 - ISP Anschluss erfolgt über die Pins des CC1101.
 - FTDI Pins sind 2mm-RM! 
